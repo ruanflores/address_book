@@ -1,0 +1,12 @@
+pt-BR:
+  activerecord:
+    models:
+      contact: Contato
+    attributes:
+      contact:
+        id: "Identificador"
+        created_at: "Criado em"
+        updated_at: "Atualizado em"
+        name: "Nome"
+        address: "Endereço"
+        phone: "Telefone"
